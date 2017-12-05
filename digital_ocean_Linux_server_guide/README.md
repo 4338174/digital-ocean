@@ -37,11 +37,17 @@
   * ```n lts```
   * ```n```
 ### 11. restart Linux Droplet
+
   <img src="img/restart1.PNG">
+  
   <img src="img/restart2.PNG">
+  
   <img src="img/restart3.PNG">
+  
   <img src="img/restart4.PNG">
+  
   <img src="img/restart5.PNG">
+  
 ### 12. install PM2
   * ```npm install -g pm2```
 ### 13. start PM2
