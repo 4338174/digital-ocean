@@ -12,7 +12,7 @@
 ###  6. click create!
 ## 4. connect to your Droplet via PuTTY
 ###  1. open your E-Mail from Digital Ocean <img src="img/putty1.PNG">
-###  2. copy IP Address from E-Mail to PuTTY<img src="img/putty2.PNG">
+###  2. copy IP Address from E-Mail to PuTTY <img src="img/putty2.PNG">
 ###  3. click on "Open" button
 ###  4. click Yes <img src="img/putty3.PNG">
 ## 5. setup Linux server
