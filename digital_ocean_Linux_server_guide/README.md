@@ -17,7 +17,7 @@
 ###  4. click Yes <img src="img/putty3.PNG">
 ## 5. setup Linux server
 ###  1. login as root <img src="img/linux1.PNG">
-###  2. copy your password from your e-mail, paste it in your console (right click) and click return<img src="img/linux2.PNG">
+###  2. copy your password from your e-mail, paste it in your console (right click) and click return <img src="img/linux2.PNG">
 ###  3. repeat step 2.
 ###  4. set new password
 ###  5. install Nano
