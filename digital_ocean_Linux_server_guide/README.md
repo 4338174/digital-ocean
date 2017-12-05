@@ -1,20 +1,20 @@
 <img src="img/logo.svg" alt="digital ocean" height="80px">
 # Digital Ocean Linux Server with Node.js & MySQL
-##1. download and install PuTTY: http://www.putty.org/
-##2. register on Digital Ocean: https://www.digitalocean.com/
-##3. create a Droplet on Digital Ocean https://cloud.digitalocean.com/droplets
+## 1. download and install PuTTY: http://www.putty.org/
+## 2. register on Digital Ocean: https://www.digitalocean.com/
+## 3. create a Droplet on Digital Ocean https://cloud.digitalocean.com/droplets
 ###  1. <img src="img/droplet1.PNG">
 ###  2. <img src="img/droplet2.PNG">
 ###  3. <img src="img/droplet3.PNG">
 ###  4. <img src="img/droplet4.PNG">
 ###  5. <img src="img/droplet5.PNG">
 ###  6. click create!
-##4. connect to your Droplet via PuTTY
+## 4. connect to your Droplet via PuTTY
 ###  1. open your E-Mail from Digital Ocean <img src="img/putty1.PNG">
 ###  2. copy IP Address from E-Mail to PuTTY<img src="img/putty2.PNG">
 ###  3. click on "Open" button
 ###  4. click Yes <img src="img/putty3.PNG">
-##5. setup Linux server
+## 5. setup Linux server
 ###  1. login as root <img src="img/linux1.PNG">
 ###  2. copy your password from your e-mail, paste it in your console (right click) and click return<img src="img/linux2.PNG">
 ###  3. repeat step 2.
