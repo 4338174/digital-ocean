@@ -1,4 +1,5 @@
-#<img src="img/logo.svg" alt="digital ocean" height="80px"> Digital Ocean Linux Server with Node.js & MySQL
+<img src="img/logo.svg" alt="digital ocean" height="80px">
+# Digital Ocean Linux Server with Node.js & MySQL
 ##1. download and install PuTTY: http://www.putty.org/
 ##2. register on Digital Ocean: https://www.digitalocean.com/
 ##3. create a Droplet on Digital Ocean https://cloud.digitalocean.com/droplets
